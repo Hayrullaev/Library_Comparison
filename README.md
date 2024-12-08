@@ -58,7 +58,7 @@
 ![Seaborn Example](https://github.com/Hayrullaev/library_Comparison/blob/main/Seaborn.png)
 
 ### Пример 3: Plotly
-![Plotly Example](https://github.com/3graste/Library-Comparison/blob/main/images/Plotly.png)
+![Plotly Example](https://github.com/Hayrullaev/library_Comparison/blob/main/Plotly.png)
 
 ## Рекомендации по выбору библиотеки
 
