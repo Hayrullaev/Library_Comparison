@@ -55,7 +55,7 @@
 ![Matplotlib Example](https://github.com/3graste/Library-Comparison/blob/main/images/Matplotlib.png) 
 
 ### Пример 2: Seaborn
-![Seaborn Example](https://github.com/3graste/Library-Comparison/blob/main/images/Seaborn.png)
+![Seaborn Example](https://github.com/Hayrullaev/library_Comparison/blob/main/Seaborn.png)
 
 ### Пример 3: Plotly
 ![Plotly Example](https://github.com/3graste/Library-Comparison/blob/main/images/Plotly.png)
