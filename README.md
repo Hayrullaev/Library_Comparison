@@ -52,7 +52,7 @@
 ## Примеры визуализаций
 
 ### Пример 1: Matplotlib
-![Matplotlib Example](https://github.com/3graste/Library-Comparison/blob/main/images/Matplotlib.png) 
+![Matplotlib Example](https://github.com/Hayrullaev/library_Comparison/blob/main/Matplotlip.png) 
 
 ### Пример 2: Seaborn
 ![Seaborn Example](https://github.com/Hayrullaev/library_Comparison/blob/main/Seaborn.png)
